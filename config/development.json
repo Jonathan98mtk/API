@@ -1,0 +1,10 @@
+{
+    "nombre": "API REST EXPRESS",
+    "configDB": {
+        "HOST": "mongodb://localhost:27017/cursos_api"
+    },
+    "configToken": {
+        "SEED": "UwU",
+        "expiration": "24h"
+    }
+}
